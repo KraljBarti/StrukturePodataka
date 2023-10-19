@@ -1,9 +1,0 @@
-﻿  zad1.c
-c:\users\student\desktop\bartikujundzic\strukturepodataka\labovi_1\labovi_1\zad1.c(48): warning C4566: character represented by universal-character-name '\u0107' cannot be represented in the current code page (1252)
-c:\users\student\desktop\bartikujundzic\strukturepodataka\labovi_1\labovi_1\zad1.c(48): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
-c:\users\student\desktop\bartikujundzic\strukturepodataka\labovi_1\labovi_1\zad1.c(29): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.22000.0\ucrt\stdio.h(213): note: see declaration of 'fopen'
-c:\users\student\desktop\bartikujundzic\strukturepodataka\labovi_1\labovi_1\zad1.c(36): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.22000.0\ucrt\stdio.h(1199): note: see declaration of 'fscanf'
-c:\users\student\desktop\bartikujundzic\strukturepodataka\labovi_1\labovi_1\zad1.c(47): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.22000.0\ucrt\stdio.h(1199): note: see declaration of 'fscanf'
