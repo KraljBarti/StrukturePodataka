@@ -1,4 +1,4 @@
-/*  5. Napisati program koji iz datoteke čita postfiks izraz i zatim korištenjem stoga računa
+/*  5. Napisati program koji iz datoteke cita postfiks izraz i zatim koristenjem stoga racuna
 rezultat. Stog je potrebno realizirati preko vezane liste. */
 
 #define _CRT_SECURE_NO_WARNINGS
